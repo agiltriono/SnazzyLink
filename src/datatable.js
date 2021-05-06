@@ -26,7 +26,7 @@ const DT_LOCALES = window.DT_LOCALES;
  * @type {String}
  * @constant
  */
-const DT_PREFIX = "snaztable";
+const DT_PREFIX = "snazzytable";
 
 /**
  * Choosen selector. All elements matching it, will be considered as DataTables
@@ -452,31 +452,4 @@ class DataTable
 }
 
 document.querySelectorAll(DT_TRIGGER)
-    .forEach(el => new DataTable(el).init());ont = document.createElement("div");
-        tableCont.classList.add(`${DT_PREFIX}__table`);
-
-        this.el.parentElement.insertBefore(cont, this.el);
-        cont.appendChild(tableCont);
-        tableCont.appendChild(this.el);
-
-        // pagination
-        let pagPanel = document.createElement("div");
-        pagPanel.classList.add(`${DT_PREFIX}__panel`);
-
-        let pgLcol = document.createElement("div");
-        pgLcol.setAttribute("aria-live", "polite");
-        pgLcol.id = `${this.el.id}_pgdisplay`;
-
-        pagPanel.appendChild(pgLcol);
-
-        let pgRCol = document.createElement("div");
-        pgRCol.id = `${this.el.id}_pagination`;
-
-        pagPanel.appendChild(pgRCol);
-        cont.appendChild(pagPanel);
-
-        this.pagination();
-        this.getPgMessage();
-
-        this.el.removeAttribute("data-search");
-        this.el.removeAttribut
+    .forEach(el => new DataTable(el).init());
