@@ -1,0 +1,273 @@
+@font-face {
+  font-family: 'sosial';
+  src:  url('fonts/sosial.eot?vzjr1v');
+  src:  url('fonts/sosial.eot?vzjr1v#iefix') format('embedded-opentype'),
+    url('fonts/sosial.ttf?vzjr1v') format('truetype'),
+    url('fonts/sosial.woff?vzjr1v') format('woff'),
+    url('fonts/sosial.svg?vzjr1v#sosial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="sosial-"], [class*=" sosial-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'sosial' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.sosial-codepen:before {
+  content: "\eae8";
+}
+.sosial-git:before {
+  content: "\eae7";
+}
+.sosial-html-five:before {
+  content: "\eae4";
+}
+.sosial-libreoffice:before {
+  content: "\eae3";
+}
+.sosial-file-excel:before {
+  content: "\eae2";
+}
+.sosial-file-word:before {
+  content: "\eae1";
+}
+.sosial-file-openoffice:before {
+  content: "\eae0";
+}
+.sosial-file-pdf:before {
+  content: "\eadf";
+}
+.sosial-opera:before {
+  content: "\eade";
+}
+.sosial-safari:before {
+  content: "\eadd";
+}
+.sosial-edge:before {
+  content: "\eadc";
+}
+.sosial-IE:before {
+  content: "\eadb";
+}
+.sosial-firefox:before {
+  content: "\eada";
+}
+.sosial-chrome:before {
+  content: "\ead9";
+}
+.sosial-paypal:before {
+  content: "\ead8";
+}
+.sosial-yelp:before {
+  content: "\ead7";
+}
+.sosial-foursquare:before {
+  content: "\ead6";
+}
+.sosial-flattr:before {
+  content: "\ead5";
+}
+.sosial-xing:before {
+  content: "\ead3";
+}
+.sosial-pinterest:before {
+  content: "\ead1";
+}
+.sosial-stackoverflow:before {
+  content: "\ead0";
+}
+.sosial-stumbleupon2:before {
+  content: "\eacf";
+}
+.sosial-delicious:before {
+  content: "\eacd";
+}
+.sosial-lastfm2:before {
+  content: "\eacc";
+}
+.sosial-linkedin:before {
+  content: "\eac9";
+}
+.sosial-wikipedia:before {
+  content: "\eac8";
+}
+.sosial-hackernews:before {
+  content: "\eac7";
+}
+.sosial-reddit:before {
+  content: "\eac6";
+}
+.sosial-skype:before {
+  content: "\eac5";
+}
+.sosial-soundcloud2:before {
+  content: "\eac4";
+}
+.sosial-soundcloud:before {
+  content: "\eac3";
+}
+.sosial-windows8:before {
+  content: "\eac2";
+}
+.sosial-windows:before {
+  content: "\eac1";
+}
+.sosial-android:before {
+  content: "\eac0";
+}
+.sosial-finder:before {
+  content: "\eabf";
+}
+.sosial-appleinc:before {
+  content: "\eabe";
+}
+.sosial-tux:before {
+  content: "\eabd";
+}
+.sosial-yahoo2:before {
+  content: "\eabc";
+}
+.sosial-yahoo:before {
+  content: "\eabb";
+}
+.sosial-tumblr2:before {
+  content: "\eaba";
+}
+.sosial-tumblr:before {
+  content: "\eab9";
+}
+.sosial-blogger2:before {
+  content: "\eab8";
+}
+.sosial-wordpress:before {
+  content: "\eab4";
+}
+.sosial-trello:before {
+  content: "\eab3";
+}
+.sosial-basecamp:before {
+  content: "\eab2";
+}
+.sosial-npm:before {
+  content: "\eab1";
+}
+.sosial-github:before {
+  content: "\eab0";
+}
+.sosial-onedrive:before {
+  content: "\eaaf";
+}
+.sosial-dropbox:before {
+  content: "\eaae";
+}
+.sosial-steam:before {
+  content: "\eaac";
+}
+.sosial-deviantart:before {
+  content: "\eaaa";
+}
+.sosial-behance2:before {
+  content: "\eaa9";
+}
+.sosial-behance:before {
+  content: "\eaa8";
+}
+.sosial-dribbble:before {
+  content: "\eaa7";
+}
+.sosial-flickr3:before {
+  content: "\eaa5";
+}
+.sosial-flickr2:before {
+  content: "\eaa4";
+}
+.sosial-lanyrd:before {
+  content: "\eaa2";
+}
+.sosial-vimeo2:before {
+  content: "\eaa1";
+}
+.sosial-twitch:before {
+  content: "\ea9f";
+}
+.sosial-youtube:before {
+  content: "\ea9d";
+}
+.sosial-rss2:before {
+  content: "\ea9c";
+}
+.sosial-rss:before {
+  content: "\ea9b";
+}
+.sosial-sina-weibo:before {
+  content: "\ea9a";
+}
+.sosial-renren:before {
+  content: "\ea99";
+}
+.sosial-vk:before {
+  content: "\ea98";
+}
+.sosial-vine:before {
+  content: "\ea97";
+}
+.sosial-twitter:before {
+  content: "\ea96";
+}
+.sosial-telegram:before {
+  content: "\ea95";
+}
+.sosial-spotify:before {
+  content: "\ea94";
+}
+.sosial-whatsapp:before {
+  content: "\ea93";
+}
+.sosial-instagram:before {
+  content: "\ea92";
+}
+.sosial-facebook2:before {
+  content: "\ea91";
+}
+.sosial-facebook:before {
+  content: "\ea90";
+}
+.sosial-google-drive:before {
+  content: "\ea8f";
+}
+.sosial-hangouts:before {
+  content: "\ea8e";
+}
+.sosial-google2:before {
+  content: "\ea89";
+}
+.sosial-amazon:before {
+  content: "\ea87";
+}
+.sosial-terminal:before {
+  content: "\ea81";
+}
+.sosial-embed2:before {
+  content: "\ea80";
+}
+.sosial-database:before {
+  content: "\e964";
+}
+.sosial-cart:before {
+  content: "\e93a";
+}
+.sosial-qrcode:before {
+  content: "\e938";
+}
